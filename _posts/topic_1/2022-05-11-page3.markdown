@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Page 3"
+date:   2022-05-10 15:43:40 +0200
+categories: Tech
+---
+This is an introduction to the Topic 1 page.
+
+This is how you can display images:
+![My helpful screenshot](/media/lightbulb.png)
+
+This is how you can create internal links:
+
+This is how you can create extrnal links: see the [Jekyll docs][jekyll-docs] website to find tips for using Jekyll.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+
